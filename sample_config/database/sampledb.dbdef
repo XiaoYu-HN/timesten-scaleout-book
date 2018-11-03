@@ -1,0 +1,7 @@
+DataStore=/grid/database/!!INSTANCE_NAME!!/sampledb
+DatabaseCharacterSet=AL32UTF8
+ConnectionCharacterSet=AL32UTF8
+Durability=0
+PermSize=128
+TempSize=128
+LogBufMB=64
